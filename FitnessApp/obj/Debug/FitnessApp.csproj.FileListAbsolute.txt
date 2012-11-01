@@ -1,0 +1,10 @@
+C:\Users\brq\Desktop\Mackenzie\FitnessApp\FitnessApp\bin\FitnessApp.dll
+C:\Users\brq\Desktop\Mackenzie\FitnessApp\FitnessApp\bin\FitnessApp.pdb
+C:\Users\brq\Desktop\Mackenzie\FitnessApp\FitnessApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\brq\Desktop\Mackenzie\FitnessApp\FitnessApp\obj\Debug\FitnessApp.dll
+C:\Users\brq\Desktop\Mackenzie\FitnessApp\FitnessApp\obj\Debug\FitnessApp.pdb
+E:\FitnessApp\FitnessApp\bin\FitnessApp.dll
+E:\FitnessApp\FitnessApp\bin\FitnessApp.pdb
+E:\FitnessApp\FitnessApp\obj\Debug\ResolveAssemblyReference.cache
+E:\FitnessApp\FitnessApp\obj\Debug\FitnessApp.dll
+E:\FitnessApp\FitnessApp\obj\Debug\FitnessApp.pdb
